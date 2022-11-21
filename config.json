@@ -1,6 +1,6 @@
 {
 	"host": "Arturo10211.aternos.me",
-	"port": "Enter your server port",
+	"port": "13965",
 	"username": "ADMIN",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
